@@ -17,8 +17,6 @@
 
 <a href="https://www.linkedin.com/in/muh-galuh-surya-putra-kusuma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhgaluh" height="30" width="40" /></a>
 
-<a href="https://stackoverflow.com/users/17123800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17123800" height="30" width="40" /></a>
-
 <a href="https://instagram.com/muhammdgaluh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhgaluh" height="30" width="40" /></a>
 
 </p>
