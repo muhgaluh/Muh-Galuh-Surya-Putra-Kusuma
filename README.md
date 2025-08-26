@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Muh+Galuh+Surya+Putra+Kusuma!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=36&weight=600&center=true&vCenter=true&width=700&height=70&duration=3000&pause=900&color=00C9FF&lines=Hello+There!+👋;I'm+Muh+Galuh+Surya+Putra+Kusuma!" />
 </h1>
 <h3 align="center">A Frontend Developer And Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif">
