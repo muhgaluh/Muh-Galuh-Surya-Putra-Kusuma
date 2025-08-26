@@ -1,5 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=38&weight=700&center=true&vCenter=true&width=720&height=72&duration=2600&pause=800&color=FFFFFF&background=00000000&lines=Hello+There!+👋;I'm+Muh+Galuh+Surya+Putra+Kusuma!" />
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet" />
+<h1 style="
+  font-family:'Montserrat',sans-serif;
+  font-size:44px;
+  text-align:center;
+  margin:0.5rem 0;
+  background: linear-gradient(90deg, #00c9ff, #92fe9d);
+  -webkit-background-clip:text;
+  background-clip:text;
+  color:transparent;">
+  Hello There! 👋<br/>I'm Muh Galuh Surya Putra Kusuma!
 </h1>
 
 <h3 align="center">A Frontend Developer And Data Analyst</h3>
