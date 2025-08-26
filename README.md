@@ -6,18 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenkagami&label=Profile%20views&color=0e75b6&style=flat" alt="stevenkagami" /> </p>
 
-- 🔭 I’m currently student on **Dian Nuswantoro University**
-- 🌱 I’m currently learning **Laravel, React JS**
-- 💬 Ask me about **Python, PHP**
-- 📫 How to reach me **muhgaluhspk@gmail.com**
+- I’m currently student on **Dian Nuswantoro University**
+- I’m currently learning **Laravel, React JS**
+- Ask me about **Python, PHP**
+- How to reach me **muhgaluhspk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/muh-galuh-surya-putra-kusuma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhgaluh" height="30" width="40" /></a>
-
-<a href="https://instagram.com/muhammdgaluh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhgaluh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muh-galuh-surya-putra-kusuma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhgaluh" height="30" width="40" /></a> <a href="https://instagram.com/muhammdgaluh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhgaluh" height="30" width="40" /></a>
 
 </p>
 
