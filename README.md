@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muh+Galuh+Surya+Putra+Kusuma!;" />
 </h1>
 <h3 align="center">A Frontend Developer And Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/userupload/16590484/file/original-03e8dcbf5ad4b9a30bc28ea9a9f3ac98.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/16590484/file/original-03e8dcbf5ad4b9a30bc28ea9a9f3ac98.gif">
 
 - I’m currently student on **Dian Nuswantoro University**
 - I’m currently learning **Laravel, React JS**
