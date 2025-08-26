@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=38&duration=2500&pause=800&color=001F54&center=true&vCenter=true&width=780&lines=Hello+There!+👋;I'm+Muh+Galuh+Surya+Putra+Kusuma!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001F54&height=120&section=header&text=Muh+Galuh+Surya+Putra+Kusuma!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </h1>
 
 <h3 align="center">A Frontend Developer And Data Analyst</h3>
