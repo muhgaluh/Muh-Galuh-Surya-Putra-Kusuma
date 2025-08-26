@@ -1,14 +1,5 @@
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet" />
-<h1 style="
-  font-family:'Montserrat',sans-serif;
-  font-size:44px;
-  text-align:center;
-  margin:0.5rem 0;
-  background: linear-gradient(90deg, #00c9ff, #92fe9d);
-  -webkit-background-clip:text;
-  background-clip:text;
-  color:transparent;">
-  Hello There! 👋<br/>I'm Muh Galuh Surya Putra Kusuma!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&random=false&width=750&lines=Hello+There!+👋;I'm+Muh+Galuh+Surya+Putra+Kusuma!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A Frontend Developer And Data Analyst</h3>
